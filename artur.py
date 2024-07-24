@@ -1,1 +1,0 @@
-print("artur.py")
