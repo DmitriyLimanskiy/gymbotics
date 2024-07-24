@@ -1,2 +1,2 @@
-print("moya vetka don't touch fucking bitch")
-print("2moya vetka don't touch fucking bitchesss")
+print("moya vetka don't touch fucking bitch!")
+print("222")
